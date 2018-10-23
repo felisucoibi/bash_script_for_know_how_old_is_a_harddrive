@@ -2,4 +2,4 @@
 Bash script to know how old is a harddrive.
 
 just download it and
-sudo sh ./filename.sh
+sudo sh ./harddriveage.sh
